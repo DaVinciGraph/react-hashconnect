@@ -2,7 +2,7 @@
   "name": "react-hashconnect",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DaVinciGraph/react-hashconnect",
+  "homepage": "https://davincigraph.github.io/react-hashconnect",
   "dependencies": {
     "@hashgraph/sdk": "^2.20.0",
     "@headlessui/react": "^1.7.11",
@@ -29,9 +29,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -b <branch> -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
