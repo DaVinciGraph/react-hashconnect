@@ -15,7 +15,6 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
-    "gh-pages": "^5.0.0",
     "hashconnect": "^0.2.4",
     "next-qrcode": "^2.4.0",
     "react": "^18.2.0",

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DaVinciGraph/react-hashconnect/static/css/main.c6004b3d.css",
+    "main.js": "/DaVinciGraph/react-hashconnect/static/js/main.cccff982.js",
+    "static/js/787.cbfc9c28.chunk.js": "/DaVinciGraph/react-hashconnect/static/js/787.cbfc9c28.chunk.js",
+    "index.html": "/DaVinciGraph/react-hashconnect/index.html",
+    "main.c6004b3d.css.map": "/DaVinciGraph/react-hashconnect/static/css/main.c6004b3d.css.map",
+    "main.cccff982.js.map": "/DaVinciGraph/react-hashconnect/static/js/main.cccff982.js.map",
+    "787.cbfc9c28.chunk.js.map": "/DaVinciGraph/react-hashconnect/static/js/787.cbfc9c28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6004b3d.css",
+    "static/js/main.cccff982.js"
+  ]
+}
