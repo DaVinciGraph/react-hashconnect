@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# About the project
+[DaVinciGraph](https://davincigraph.io) create this project which is a ReactJs version of an angular project on hashpack repository, showing how to interact with hashpack wallet through hashconnect library. you can visit a demo of the running project by clicking on the below link or if you want to have the code you can just clone the project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[View Demo](https://davincigraph.github.io/react-hashconnect).
 
 ## Available Scripts
 
